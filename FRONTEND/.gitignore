@@ -1,0 +1,49 @@
+# Diretórios padrão do Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Diretórios padrão do Expo
+.expo/
+.expo-shared/
+
+# Diretórios do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios de builds e caches
+android/
+ios/
+web-build/
+build/
+
+# Logs e relatórios
+*.log
+*.tlog
+*.log.[0-9]
+*.trace
+
+# Testes e reports
+coverage/
+*.spec.js
+
+# Diretórios do React Native
+.expo/
+.expo-shared/
+react-native.config.js
+
+# Dependências instaladas (inclui @react-navigation/native, react-native-screens, react-native-safe-area-context, @react-navigation/bottom-tabs, react-native-web, react-dom, @expo/metro-runtime)
+node_modules/
+package-lock.json
+
+# Diretórios do Metro Bundler
+.cache/
+.haul/
+
+# Outros arquivos temporários
+*.tmp
+*.temp
+
+# IntelliJ IDEA
+.idea/
+*.iml
